@@ -1,0 +1,17 @@
+.quote{
+	background-image:url('turtles.jpg');
+	width:1000px;
+	height:5000px;
+}
+.looks{
+	background-color:gray;
+}
+.col{
+	color:#12345f;
+}
+table,th,td{
+	border:1px solid black;
+}
+.foo{
+	color:white;
+}
