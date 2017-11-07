@@ -2,13 +2,82 @@
 	background-color:skyblue;
 }
 .bloc{
-	background-color:white;
-	color:black;
+	background-color:skyblue;
+	color:solid gray;
 
 }
 .one{
-	color:red;
+	color:solid gray;
+	cursor:pointer;
+	border-width:4px;
+	font-weight:bold;
 }
 .two{
+	color:white;
+}
+table,th,td{
+	border:5px solid white;
+	border-collapse:collapse;
+	padding:3px;
+
+}
+.formc{
+	font-family:impact;
+	color:black;
+	text-shadow:2px 2px 4px white;
+	border:2px solid grey;
+	background-color:grey;
+	height:30px;
+}
+.col{
+	font-family:garamond;
+}
+#to1{
+	background-color:lightgray;
+}
+.gree{
+	background-color:lightgreen;
+}
+.can{
+	font-family:arial;
+}
+.forms{
+	width:20%;
+	height:30px;
+	padding:12px,20px;
+	margin:8px 0;
+	box-sizing:border-box;
+	border:2px solid;
+	background-color:black;
+	color:white;
+}
+.sub{
+	border-width:4px;
+	padding:16px 32px;
 	color:red;
+	cursor:pointer;
+	text-decoration:none;
+	margin-top:4px 2px;
+	font-weight:bold;
+
+}
+a:link{
+	text-decoration:none;
+}
+h3{
+	text-shadow:2px 2px 4px grey;
+}
+.pros{
+	text-shadow:2px 2px 4px grey;
+	background-color:skyblue;
+}
+.form{
+	width:40%;
+	height:100px;
+	padding:12px,20px;
+	margin:8px 0;
+	box-sizing:border-box;
+	border:2px solid;
+	background-color:black;
+	color:white;
 }
